@@ -1,1 +1,1 @@
-﻿[![Pandas for Python.](https://raw.githubusercontent.com/gdmacedo/Python-Pandas-DIO-Unimed-BH/main/readme.jpg)](https://drive.google.com/drive/folders/1WDEp5DTQ_hzaN_s4hk-yTNXmw3ATngBo)
+﻿[![Pandas for Python.](https://drive.google.com/file/d/1VcZS2VcJ674SH28k74FIv6yYxvMtHJlr/view?usp=sharing)](https://drive.google.com/drive/folders/1WDEp5DTQ_hzaN_s4hk-yTNXmw3ATngBo)
