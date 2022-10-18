@@ -1,8 +1,6 @@
-﻿![](Aspose.Words.e268f4b6-7755-40db-af16-683f24ab729e.001.png) Pandas![](Aspose.Words.e268f4b6-7755-40db-af16-683f24ab729e.002.png) 
+﻿# Introdução
 
-Introdução
-
-Pandas  é  uma  biblioteca  open-source  para  uso  na  Linguagem  Python,  que fornece ferramentas para análise e manipulação ![](Aspose.Words.e268f4b6-7755-40db-af16-683f24ab729e.003.png)de dados. 
+## Pandas  é  uma  biblioteca  open-source  para  uso  na  Linguagem  Python,  que fornece ferramentas para análise e manipulação ![](Aspose.Words.e268f4b6-7755-40db-af16-683f24ab729e.003.png)de dados. 
 
 Permitindo trabalhar com diferentes tipos de dados, por exemplo: 
 
